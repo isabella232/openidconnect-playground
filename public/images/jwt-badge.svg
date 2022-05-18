@@ -1,15 +1,1 @@
-<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <defs></defs>
-    <g id="Group-Copy-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Shape" fill="#FFFFFF" points="10.8773693 5.08758538 10.8773693 1.70530257e-13 8.04472108 1.70530257e-13 8.04472108 5.08758538 9.44216089 7.00956207"></polygon>
-        <polygon id="Shape" fill="#FFFFFF" points="8.04472108 13.7553234 8.04472108 18.8429088 10.8773693 18.8429088 10.8773693 13.7553234 9.44216089 11.8333467"></polygon>
-        <polygon id="Shape" fill="#00F2E6" points="10.8773693 13.7553234 13.8610922 17.8630775 16.1272108 16.2049016 13.143488 12.0971474 10.8773693 11.3811169"></polygon>
-        <polygon id="Shape" fill="#00F2E6" points="8.04472108 5.08758538 5.02322959 0.979831258 2.75711098 2.63800723 5.74083382 6.74576135 8.04472108 7.46179188"></polygon>
-        <polygon id="Shape" fill="#00B9F1" points="5.74083382 6.74576135 0.906447446 5.16295701 0.0377686436 7.83865006 4.87215502 9.4214544 7.13827363 8.66773805"></polygon>
-        <polygon id="Shape" fill="#00B9F1" points="11.7460482 10.1751708 13.143488 12.0971474 17.9778743 13.6799518 18.8465531 11.0042587 14.0121668 9.4214544"></polygon>
-        <polygon id="Shape" fill="#D63AFF" points="14.0121668 9.4214544 18.8465531 7.83865006 17.9778743 5.16295701 13.143488 6.74576135 11.7460482 8.66773805"></polygon>
-        <polygon id="Shape" fill="#D63AFF" points="4.87215502 9.4214544 0.0377686436 11.0042587 0.906447446 13.6799518 5.74083382 12.0971474 7.13827363 10.1751708"></polygon>
-        <polygon id="Shape" fill="#FB015B" points="5.74083382 12.0971474 2.75711098 16.2049016 5.02322959 17.8630775 8.04472108 13.7553234 8.04472108 11.3811169"></polygon>
-        <polygon id="Shape" fill="#FB015B" points="13.143488 6.74576135 16.1272108 2.63800723 13.8610922 0.979831258 10.8773693 5.08758538 10.8773693 7.46179188"></polygon>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="19" version="1.1" viewBox="0 0 19 19"><g id="Group-Copy-4" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><polygon id="Shape" fill="#FFF" points="10.877 5.088 10.877 0 8.045 0 8.045 5.088 9.442 7.01"/><polygon id="Shape" fill="#FFF" points="8.045 13.755 8.045 18.843 10.877 18.843 10.877 13.755 9.442 11.833"/><polygon id="Shape" fill="#00F2E6" points="10.877 13.755 13.861 17.863 16.127 16.205 13.143 12.097 10.877 11.381"/><polygon id="Shape" fill="#00F2E6" points="8.045 5.088 5.023 .98 2.757 2.638 5.741 6.746 8.045 7.462"/><polygon id="Shape" fill="#00B9F1" points="5.741 6.746 .906 5.163 .038 7.839 4.872 9.421 7.138 8.668"/><polygon id="Shape" fill="#00B9F1" points="11.746 10.175 13.143 12.097 17.978 13.68 18.847 11.004 14.012 9.421"/><polygon id="Shape" fill="#D63AFF" points="14.012 9.421 18.847 7.839 17.978 5.163 13.143 6.746 11.746 8.668"/><polygon id="Shape" fill="#D63AFF" points="4.872 9.421 .038 11.004 .906 13.68 5.741 12.097 7.138 10.175"/><polygon id="Shape" fill="#FB015B" points="5.741 12.097 2.757 16.205 5.023 17.863 8.045 13.755 8.045 11.381"/><polygon id="Shape" fill="#FB015B" points="13.143 6.746 16.127 2.638 13.861 .98 10.877 5.088 10.877 7.462"/></g></svg>
